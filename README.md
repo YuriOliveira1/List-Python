@@ -68,5 +68,5 @@ e) a área do retângulo que tem lados A e B.
 
 ## Authors
 
-- [@octokatherine](https://github.com/YuriOliveira1)
+- [@YuriOliveira1](https://github.com/YuriOliveira1)
 
