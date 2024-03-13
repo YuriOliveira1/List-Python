@@ -6,7 +6,7 @@ A, B, C = conv
 pi = 3.14159
 TRIANGULO = 1/2 * A * C
 CIRCULO = pi * pow(C, 2)
-TRAPEZIO = (A + B) * C / 2
+TRAPEZIO = ((A + B) * C) / 2
 QUADRADO = pow(A, 2)
 RETANGULO = A * B
 print("TRIANGULO: ", round(TRIANGULO, 3))
